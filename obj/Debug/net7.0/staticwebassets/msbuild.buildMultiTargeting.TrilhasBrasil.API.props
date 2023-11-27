@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TrilhasBrasil.API.props" />
+</Project>

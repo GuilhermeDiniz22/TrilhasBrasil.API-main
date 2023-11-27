@@ -1,0 +1,163 @@
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\appsettings.json
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\TrilhasBrasil.API.exe
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\TrilhasBrasil.API.deps.json
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\TrilhasBrasil.API.runtimeconfig.json
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\TrilhasBrasil.API.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\TrilhasBrasil.API.pdb
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\obj\Debug\net7.0\TrilhasBrasil.API.csproj.AssemblyReference.cache
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\obj\Debug\net7.0\TrilhasBrasil.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\obj\Debug\net7.0\TrilhasBrasil.API.AssemblyInfoInputs.cache
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\obj\Debug\net7.0\TrilhasBrasil.API.AssemblyInfo.cs
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\obj\Debug\net7.0\TrilhasBrasil.API.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\obj\Debug\net7.0\TrilhasBrasil.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\obj\Debug\net7.0\TrilhasBrasil.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\obj\Debug\net7.0\staticwebassets\msbuild.TrilhasBrasil.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\obj\Debug\net7.0\staticwebassets\msbuild.build.TrilhasBrasil.API.props
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TrilhasBrasil.API.props
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TrilhasBrasil.API.props
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\obj\Debug\net7.0\scopedcss\bundle\TrilhasBrasil.API.styles.css
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\obj\Debug\net7.0\TrilhasBrasil.API.csproj.CopyComplete
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\obj\Debug\net7.0\TrilhasBrasil.API.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\obj\Debug\net7.0\refint\TrilhasBrasil.API.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\obj\Debug\net7.0\TrilhasBrasil.API.pdb
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\obj\Debug\net7.0\TrilhasBrasil.API.genruntimeconfig.cache
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\obj\Debug\net7.0\ref\TrilhasBrasil.API.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\guilherme.diniz\Desktop\TrilhasBrasil.API\TrilhasBrasil.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\appsettings.json
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\TrilhasBrasil.API.exe
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\TrilhasBrasil.API.deps.json
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\TrilhasBrasil.API.runtimeconfig.json
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\TrilhasBrasil.API.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\TrilhasBrasil.API.pdb
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\obj\Debug\net7.0\TrilhasBrasil.API.csproj.AssemblyReference.cache
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\obj\Debug\net7.0\TrilhasBrasil.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\obj\Debug\net7.0\TrilhasBrasil.API.AssemblyInfoInputs.cache
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\obj\Debug\net7.0\TrilhasBrasil.API.AssemblyInfo.cs
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\obj\Debug\net7.0\TrilhasBrasil.API.csproj.CoreCompileInputs.cache
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\obj\Debug\net7.0\TrilhasBrasil.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\obj\Debug\net7.0\TrilhasBrasil.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\obj\Debug\net7.0\staticwebassets\msbuild.TrilhasBrasil.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\obj\Debug\net7.0\staticwebassets\msbuild.build.TrilhasBrasil.API.props
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TrilhasBrasil.API.props
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TrilhasBrasil.API.props
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\obj\Debug\net7.0\scopedcss\bundle\TrilhasBrasil.API.styles.css
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\obj\Debug\net7.0\TrilhasBrasil.API.csproj.CopyComplete
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\obj\Debug\net7.0\TrilhasBrasil.API.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\obj\Debug\net7.0\refint\TrilhasBrasil.API.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\obj\Debug\net7.0\TrilhasBrasil.API.pdb
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\obj\Debug\net7.0\TrilhasBrasil.API.genruntimeconfig.cache
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\obj\Debug\net7.0\ref\TrilhasBrasil.API.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Karla Reis\Downloads\TrilhasBrasil.API-main (1)\TrilhasBrasil.API-main\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
